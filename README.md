@@ -8,11 +8,15 @@ Torchvision
 NumPy
 Matplotlib
 To install the dependencies, run:
-```pip install torch torchvision numpy matplotlib```
+```
+pip install torch torchvision numpy matplotlib
+```
 ## Dataset
 The project uses the MNIST dataset, which consists of 60,000 training images and 10,000 test images of handwritten digits. The dataset can be easily loaded using Torchvision's torchvision.datasets.MNIST module.
 Training and Validating the Model
 ## Training and test
 To train the model, run the following command:
-```python train.py```
+```
+python train.py
+```
 After training,the script will do test automatically.
