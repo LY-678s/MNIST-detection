@@ -1,0 +1,5 @@
+# .gitignore
+.idea/
+_pycache_/
+data/
+loss_logs/
